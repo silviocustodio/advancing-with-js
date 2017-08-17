@@ -1,4 +1,4 @@
-# Check the project, access: https://silviocustodio.github.io/advancing-with-js/course/
+# Check this project, access: https://silviocustodio.github.io/advancing-with-js/course/
 
 Advanced JavaScript Project
 
