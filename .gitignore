@@ -1,0 +1,7 @@
+# Created by .ignore support plugin (hsz.mobi)
+.gitignore
+.idea/advancing-with-js.iml
+.idea/inspectionProfiles/
+.idea/modules.xml
+.idea/workspace.xml
+files/
