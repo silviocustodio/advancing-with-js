@@ -242,7 +242,7 @@ function deleteList() {
 function saveListStorage(list) {
 
     var jsonStr = JSON.stringify(list); //change  array list to string format
-    localStorage.setItem("list",jsonStr);// save list in local storage
+    localStorage.setItem("list",jsonStr);// save list in local storage.
 
 }
 
