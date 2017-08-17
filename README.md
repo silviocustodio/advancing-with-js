@@ -16,3 +16,6 @@ Project about a shopping control application using in practice the resources of 
 * Setting the total purchase value
 * Deleting list
 * Saving log to local storage
+
+
+e-learning : https://www.schoolofnet.com/curso-javascript-avancado/
